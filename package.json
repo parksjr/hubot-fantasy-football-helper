@@ -1,0 +1,43 @@
+{
+  "name": "hubot-fantasy-football-helper",
+  "description": "Fantasy football help for your hubot",
+  "version": "0.0.0",
+  "author": "parksjr <mike@parksjr.tech>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "fantasy football",
+    "nfl",
+    "fantasy",
+    "football",
+    "league"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/parksjr/hubot-fantasy-football-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parksjr/hubot-fantasy-football-helper/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "scrapeit": "0.0.2"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "hubot-test-helper": "^1.4.4",
+    "matchdep": "~0.1.2",
+    "mocha": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
