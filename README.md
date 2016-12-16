@@ -1,4 +1,6 @@
 # hubot-fantasy-football-helper
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/359cf2a963864a88aa84de353633ea58)](https://www.codacy.com/app/mike_10/hubot-fantasy-football-helper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=parksjr/hubot-fantasy-football-helper&amp;utm_campaign=badger)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/359cf2a963864a88aa84de353633ea58)](https://www.codacy.com/app/mike_10/hubot-fantasy-football-helper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=parksjr/hubot-fantasy-football-helper&amp;utm_campaign=Badge_Grade)
 
 Fantasy football help for your hubot
