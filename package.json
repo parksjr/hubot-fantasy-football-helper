@@ -1,7 +1,7 @@
 {
   "name": "hubot-fantasy-football-helper",
   "description": "Fantasy football help for your hubot",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "parksjr <mike@parksjr.tech>",
   "license": "MIT",
   "keywords": [
